@@ -1,1 +1,1 @@
-# Hermite-interpolation-cubic
+# Hermite-interpolation-cubic-Parablic-spline-interpolation
